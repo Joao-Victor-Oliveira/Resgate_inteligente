@@ -48,7 +48,7 @@ Arquitetura e Algoritmos
 
         Resolve o problema de roteamento (Team Orienteering Problem).
 
-        Função de aptidão multiobjetivo que prioriza vítimas críticas e eficiência energética.
+        Função de aptidão multiobjetivo que priorizar vítimas próxima e com mais chances de sobrevivencia e eficiência energética.
 
         Utilização de Matriz de Custos pré-calculada para otimização de performance.
 
@@ -57,8 +57,6 @@ Arquitetura e Algoritmos
         Algoritmo A-Star com heurística adaptativa.
 
         Implementação de verificação de sensores em tempo real para evitar colisões dinâmicas.
-
-        Correção de trajetórias para evitar travamentos em quinas (corner cutting).
 
 
 Autores
