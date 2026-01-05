@@ -12,7 +12,7 @@ Projeto acadêmico desenvolvido na disciplina de Inteligência Artificial (UTFPR
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-PROJETO.git](https://github.com/Resgate_inteligente.git)
+   git clone [https://github.com/Joao-Victor-Oliveira/Resgate_inteligente.git](https://github.com/Resgate_inteligente.git)
 Instale as dependências necessárias:
    pip install numpy scikit-learn joblib
 Execute a simulação:
